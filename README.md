@@ -8,7 +8,7 @@
 
 主要负责管理整个系统的配置，项目启动。对于一些第三方Bean的声明，AOP切面都可在这层完成
 
-✨**spring-ddd-archetype-domain**：**领域层 **
+✨**spring-ddd-archetype-domain**：**领域层**
 
 DDD架构最核心的部分，根据不同业务划分不同的领域包，为infrastructure层提供仓储接口，实现依赖倒置
 
