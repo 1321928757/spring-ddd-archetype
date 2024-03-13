@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: spring-ddd-archetype-app
+  profiles:
+    active: dev
