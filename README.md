@@ -1,6 +1,4 @@
-# Spring DDD 脚手架-By 刘仕杰
-
-🎇为了让小伙伴更快的构建DDD架构的Spring项目，我这里编写了一个基于DDD架构的项目基础骨架🎇
+# Spring DDD 脚手架
 
 ## 架构分层
 
